@@ -1,0 +1,7 @@
+version: "3.5"
+
+services:
+  nasareact:
+    image: time-react
+    ports:
+      - 8080:8080
